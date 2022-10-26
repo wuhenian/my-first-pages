@@ -6,6 +6,6 @@ Hello guys
 
 I can do
 
--python
--cooking
--running
+- python
+- cooking
+- running
